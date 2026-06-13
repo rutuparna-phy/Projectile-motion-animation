@@ -1,44 +1,60 @@
 # Projectile Motion Animation
-An interactive visualization of Projectile Motion hosted on GitHub.
+
+A beginner computational physics project that visualizes projectile motion using Python and Matplotlib.
 
 ## Overview
-This project demonstrates the behavior of Projectile Motion through an interactive simulation and visualization interface.
 
-The repository was created as part of my beginner journey into:
+This project explores the physics of projectile motion through progressively improved simulations and visualizations.
 
--computational physics
--simulations
--Git and GitHub
--interactive scientific visualization
--Features
--Physics-inspired dynamics
--Beginner-friendly computational physics project
--Live Demo
--View Interactive Simulation
--Python
+It was created as part of my journey into:
+
+- Computational Physics
+- Scientific Programming
+- Python
+- Git and GitHub
+- Physics Simulations
 
 ## Technologies Used
--Python
--VS Code
--ChatGPT Artifacts
--GitHub
+
+- Python
+- NumPy
+- Matplotlib
+- VS Code
+- GitHub
 
 ## Versions
 
-- v1_basic_graph.py
-  - Basic projectile trajectory
+### v1.py
+Basic projectile trajectory plotted using projectile motion equations.
 
-- v2_user_input.py
-  - User enters velocity and angle
+### v2.py
+User-defined launch velocity and launch angle for interactive trajectory generation.
 
-- v3_animation.py
-  - Animated projectile motion
+### v3.py *(planned)*
+Animated projectile motion visualization.
 
+## Physics Concepts
 
-The purpose of this project is to explore how computational tools and visual simulations can be used to better understand physical systems.
+- Projectile Motion
+- Kinematics
+- Velocity Components
+- Gravity
+- Trajectory Analysis
 
-Author
-Rutuparna Nayak
+## Purpose
+
+The goal of this project is to use computational tools and visualization techniques to better understand physical systems and build practical scientific programming skills.
+
+## Future Improvements
+
+- Animated projectile motion
+- Multiple trajectory comparison
+- Air resistance effects
+- Interactive controls and sliders
+- Trajectory statistics (range, maximum height, time of flight)
+
+## Author
+
+**Rutuparna Nayak**
 
 GitHub: https://github.com/rutuparna-phy
-
