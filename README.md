@@ -1,4 +1,5 @@
 # Projectile Motion Animation
+![Projectile Demo](media/projectile1.gif)
 
 A beginner computational physics project that visualizes projectile motion using Python and Matplotlib.
 
@@ -42,9 +43,6 @@ Animated projectile motion visualization.
 - Trajectory Analysis
 
 
-# Projectile Motion Animation
-
-![Projectile Demo](media/projectile1.gif)
 
 ## Purpose
 
