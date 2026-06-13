@@ -44,7 +44,7 @@ Animated projectile motion visualization.
 
 # Projectile Motion Animation
 
-![Projectile Demo](media/projectile_demo.gif)
+![Projectile Demo(media/projectile1.gif)
 
 ## Purpose
 
