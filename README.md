@@ -41,6 +41,11 @@ Animated projectile motion visualization.
 - Gravity
 - Trajectory Analysis
 
+
+# Projectile Motion Animation
+
+![Projectile Demo](media/projectile_demo.gif)
+
 ## Purpose
 
 The goal of this project is to use computational tools and visualization techniques to better understand physical systems and build practical scientific programming skills.
